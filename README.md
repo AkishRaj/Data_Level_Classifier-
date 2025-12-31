@@ -209,3 +209,7 @@ Multi-language support
 ## 17. Conclusion
 
 This project demonstrates how machine learning can be used to protect privacy in AI systems. By classifying data into sensitivity levels, the system prevents model leakage and ensures that AI operates in a secure, ethical, and lawful manner.
+
+## 18. Output
+<img width="1534" height="774" alt="image" src="https://github.com/user-attachments/assets/6fa730eb-ed2b-4d52-a529-12cf46156af5" />
+
